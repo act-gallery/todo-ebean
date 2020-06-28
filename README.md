@@ -1,6 +1,11 @@
-### ACT Framework Demo Applications
+# ACT Framework Demo Applications
 
-Usage:
+## KNOWN ISSUE
+
+This project does not run in Java9+
+
+
+## Usage:
 
 To start in dev mode:
 
